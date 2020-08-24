@@ -1,0 +1,58 @@
+body,h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    margin: 20px;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+.topo{
+    background-color:deepskyblue;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.topo-h1{
+   margin-top: 160px;
+   margin-left: 10px;
+}
+
+.menu-bg{
+    font-size: 24px;
+}
+
+.menu{
+    background-color:darkgrey;
+}
+
+.menu-nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 0px;
+  }
+
+  .menu-nav li{
+    margin-right: 30px;
+  }
+
+  li{
+      font-size: 24px;
+  }
+
+  h3{
+      font-size: 30px;
+      margin-left: 20px;
+      font-weight: bold;
+  }
+
+  p{
+    margin-left: 30px;
+    font-size: 24px;
+  }
+
